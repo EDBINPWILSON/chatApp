@@ -1,0 +1,7 @@
+.con {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  gap: 10px;
+  /* box-shadow: 0px 1px 3px 1px; */
+}

@@ -1,0 +1,7 @@
+.home {
+  width: 800px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid red;
+}

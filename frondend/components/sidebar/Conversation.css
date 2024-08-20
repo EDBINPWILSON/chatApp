@@ -1,0 +1,22 @@
+img {
+  width: 40px;
+}
+.people {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+  justify-content: space-evenly;
+  align-items: center;
+  /* background-color: rgb(79, 80, 78); */
+  background-color: lightblue;
+  transition: background-color 0.3s ease;
+}
+
+.people:hover {
+  background-color: rgb(83, 47, 245);
+}
+
+p {
+  color: black;
+}
